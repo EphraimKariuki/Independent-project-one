@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  color: yellow;
+}
+body {
+  background-color: purple;
+}
+img {border-radius: 50%;
+  max-width: 100%
+  height: auto;
+}
